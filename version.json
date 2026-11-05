@@ -1,14 +1,14 @@
 {
   "web": {
-    "version": 4,
+    "version": 5,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "0d51181beeaedb54bf1a0af814f4086c1ba20f9fc4c550621539836d08da4195",
-    "title": "كمية بن أكبر · Bigger coffee doses",
+    "sha256": "3569357fa71748b831e04b71040b6ad4c50e71bed921a75f8ca34d8684811337",
+    "title": "الشاي في كل مكان · Tea everywhere",
     "notes": [
-      "لين 25 جم بن: اختر كوب «آخر» — وتنبيه بضغطة وحدة لما توصل حد كوب Omni (18 جم)",
-      "Up to 25 g of coffee with the «Other» cup — plus a one-tap prompt at the Omni cup's 18 g limit",
-      "إصلاح وصفة «كوب مزدوج»",
-      "Fixed the «Double cup» recipe"
+      "الشرح صار فيه قسم شاي 🍵 خطوة بخطوة، مع اختيار قهوة/شاي",
+      "The guide now has a step-by-step tea 🍵 section, with a coffee/tea switch",
+      "شاشة التحضير تقول «نقعة» و«شايك جاهز» لوصفات الشاي",
+      "The brew screen says «steep» and «Your tea is ready» for tea recipes"
     ]
   },
   "apk": {
