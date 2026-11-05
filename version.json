@@ -1,14 +1,14 @@
 {
   "web": {
-    "version": 5,
+    "version": 6,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "3569357fa71748b831e04b71040b6ad4c50e71bed921a75f8ca34d8684811337",
-    "title": "الشاي في كل مكان · Tea everywhere",
+    "sha256": "caf25ca5c59a156481f2609f023c9d23aad2f63a5faffb9127145ca54d65ff00",
+    "title": "التحديثات تبان على طول · Updates apply instantly",
     "notes": [
-      "الشرح صار فيه قسم شاي 🍵 خطوة بخطوة، مع اختيار قهوة/شاي",
-      "The guide now has a step-by-step tea 🍵 section, with a coffee/tea switch",
-      "شاشة التحضير تقول «نقعة» و«شايك جاهز» لوصفات الشاي",
-      "The brew screen says «steep» and «Your tea is ready» for tea recipes"
+      "⚠️ بعد هالتحديث طفّ البرواز وشغّله مرة أخيرة — بعدها كل تحديث يبان على طول بدون إطفاء",
+      "⚠️ After this update, switch the screen off and on one last time — from then on updates show instantly",
+      "الإعدادات تنقفل من جديد أول ما تطلع منها",
+      "Settings lock again as soon as you leave them"
     ]
   },
   "apk": {
