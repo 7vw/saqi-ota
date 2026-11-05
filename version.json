@@ -1,12 +1,16 @@
 {
   "web": {
-    "version": 7,
+    "version": 8,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "1345693938501f1c3345c1cf080e393cedc282de572f679825ecf2a8a077802a",
-    "title": "أضف وصفة من جوالك · Add recipes from your phone",
+    "sha256": "32ea3ec6bba0c1350a53346f747f788659a0c3aa10897c9c4fb3b6a079208529",
+    "title": "سجل التحضير + مساعد الطعم + تذكير التنظيف · Brew log, taste helper, cleaning reminder",
     "notes": [
-      "زر «من جوالك»: صوّر الباركود والصق رابط وصفة من تطبيق xBloom — يشتغل بعد تثبيت نسخة التطبيق الجديدة بالكيبل",
-      "«From your phone»: scan the barcode and paste an xBloom recipe link — works after installing the new app version by cable"
+      "سجل التحضير: كل كوب بساعته ووزنه ومدته — من «السجل» في الوصفات",
+      "Brew log: every cup with its time, weight and duration — «Log» on the recipes page",
+      "مساعد الطعم 🔒 لصاحب الشاشة بس (بالرقم السري): قيّم الكوب ويقترح التعديل",
+      "Taste helper 🔒 for the owner only (PIN): rate the cup and get a suggested fix",
+      "تذكير تنظيف المكينة كل 50 / 100 / 200 كوب — من الإعدادات",
+      "Machine cleaning reminder every 50 / 100 / 200 cups — in Settings"
     ]
   },
   "apk": {
