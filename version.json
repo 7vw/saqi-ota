@@ -1,4 +1,15 @@
 {
-  "web": { "version": 1 },
-  "apk": { "version": 1 }
+  "web": {
+    "version": 2,
+    "url": "https://7vw.github.io/saqi-ota/assets.zip",
+    "sha256": "6c8ea20f654db9f8bc91b43bfdcf43e61ebb0b5d436bb8c93107c116dd54d2de",
+    "title": "إضافة اللغة الإنجليزية · English added",
+    "notes": [
+      "الشاشة صارت تدعم الإنجليزي — من الإعدادات ← اللغة",
+      "The screen now supports English — Settings → Language"
+    ]
+  },
+  "apk": {
+    "version": 1
+  }
 }
