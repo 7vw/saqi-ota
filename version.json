@@ -1,15 +1,19 @@
 {
   "web": {
-    "version": 9,
+    "version": 10,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "e9ed2a792ace93d1f8852e2fce081a7ca65e270ab505c38f1e4e53da9de8337b",
-    "title": "ملاحظات التحديث بلغة الشاشة",
+    "sha256": "3c4fa5e51f782fe3d063ebf709e7512e9835fd83ab59d68a43e2514267844fb9",
+    "title": "🎯 الضبط التلقائي لبن جديد",
     "notes": [
-      "ملاحظات التحديثات تطلع بلغة الشاشة بس — عربي أو إنجليزي"
+      "٣ أكواب تجريبية صغيرة، كوب كوب، تقيّم كل واحد ويحفظ لك الأحلى وصفة جديدة",
+      "تختار وش تجرّب: الطحنة أو الحرارة",
+      "لك بس — بالرقم السري، والشرح في «الشرح» ← 🎯 الضبط"
     ],
-    "title_en": "Update notes in the screen's language",
+    "title_en": "🎯 Dial in a new bean",
     "notes_en": [
-      "Update notes now show only in the screen's language — Arabic or English"
+      "3 small test cups, one at a time — rate each and the best is saved as a new recipe",
+      "Choose what to try: grind or temperature",
+      "Owner only — with the PIN; how-to in «Guide» → 🎯 Dial-in"
     ]
   },
   "apk": {
