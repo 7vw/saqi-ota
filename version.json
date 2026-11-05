@@ -1,16 +1,15 @@
 {
   "web": {
-    "version": 8,
+    "version": 9,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "32ea3ec6bba0c1350a53346f747f788659a0c3aa10897c9c4fb3b6a079208529",
-    "title": "سجل التحضير + مساعد الطعم + تذكير التنظيف · Brew log, taste helper, cleaning reminder",
+    "sha256": "e9ed2a792ace93d1f8852e2fce081a7ca65e270ab505c38f1e4e53da9de8337b",
+    "title": "ملاحظات التحديث بلغة الشاشة",
     "notes": [
-      "سجل التحضير: كل كوب بساعته ووزنه ومدته — من «السجل» في الوصفات",
-      "Brew log: every cup with its time, weight and duration — «Log» on the recipes page",
-      "مساعد الطعم 🔒 لصاحب الشاشة بس (بالرقم السري): قيّم الكوب ويقترح التعديل",
-      "Taste helper 🔒 for the owner only (PIN): rate the cup and get a suggested fix",
-      "تذكير تنظيف المكينة كل 50 / 100 / 200 كوب — من الإعدادات",
-      "Machine cleaning reminder every 50 / 100 / 200 cups — in Settings"
+      "ملاحظات التحديثات تطلع بلغة الشاشة بس — عربي أو إنجليزي"
+    ],
+    "title_en": "Update notes in the screen's language",
+    "notes_en": [
+      "Update notes now show only in the screen's language — Arabic or English"
     ]
   },
   "apk": {
