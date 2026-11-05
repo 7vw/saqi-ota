@@ -1,20 +1,23 @@
 {
   "web": {
-    "version": 10,
+    "version": 11,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "3c4fa5e51f782fe3d063ebf709e7512e9835fd83ab59d68a43e2514267844fb9",
-    "title": "🎯 الضبط التلقائي لبن جديد",
+    "sha256": "ed3fb10b02397435117867d8ea2eec0c2d5278aab5b43c9bd53b749cecacd79b",
+    "title": "إصلاحات + رقم الإصدار الجديد",
     "notes": [
-      "٣ أكواب تجريبية صغيرة، كوب كوب، تقيّم كل واحد ويحفظ لك الأحلى وصفة جديدة",
-      "تختار وش تجرّب: الطحنة أو الحرارة",
-      "لك بس — بالرقم السري، والشرح في «الشرح» ← 🎯 الضبط"
+      "أرقام الإصدارات صارت: 1 ثم 1.1 و 1.2 …",
+      "إنذار صوتي بعد ٥ محاولات غلط في الرقم السري، وانتظار ٣٠ ثانية",
+      "إصلاح أزرار «الشرح» (قهوة / شاي / الضبط)",
+      "فحص التحديثات يتكرر لحاله، وتذكير التنظيف ما يتلخبط بعد إعادة التشغيل"
     ],
-    "title_en": "🎯 Dial in a new bean",
+    "title_en": "Fixes + new version number",
     "notes_en": [
-      "3 small test cups, one at a time — rate each and the best is saved as a new recipe",
-      "Choose what to try: grind or temperature",
-      "Owner only — with the PIN; how-to in «Guide» → 🎯 Dial-in"
-    ]
+      "Versions are now numbered 1, then 1.1, 1.2 …",
+      "Alarm after 5 wrong PIN tries, then a 30-second wait",
+      "Fixed the Guide tabs (coffee / tea / dial-in)",
+      "Update checks repeat on their own; the cleaning reminder survives restarts"
+    ],
+    "label": "1"
   },
   "apk": {
     "version": 3
