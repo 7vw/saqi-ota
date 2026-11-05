@@ -1,23 +1,17 @@
 {
   "web": {
-    "version": 11,
+    "version": 12,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "ed3fb10b02397435117867d8ea2eec0c2d5278aab5b43c9bd53b749cecacd79b",
-    "title": "إصلاحات + رقم الإصدار الجديد",
+    "sha256": "197220d4d0193fa4e8b7f960e2e4b6468b8dde388146eae1732278517ff09996",
+    "title": "تحسين بسيط في الشرح",
     "notes": [
-      "أرقام الإصدارات صارت: 1 ثم 1.1 و 1.2 …",
-      "إنذار صوتي بعد ٥ محاولات غلط في الرقم السري، وانتظار ٣٠ ثانية",
-      "إصلاح أزرار «الشرح» (قهوة / شاي / الضبط)",
-      "فحص التحديثات يتكرر لحاله، وتذكير التنظيف ما يتلخبط بعد إعادة التشغيل"
+      "أيقونة القفل في أول خطوة من شرح «🎯 الضبط»"
     ],
-    "title_en": "Fixes + new version number",
+    "title_en": "Small guide polish",
     "notes_en": [
-      "Versions are now numbered 1, then 1.1, 1.2 …",
-      "Alarm after 5 wrong PIN tries, then a 30-second wait",
-      "Fixed the Guide tabs (coffee / tea / dial-in)",
-      "Update checks repeat on their own; the cleaning reminder survives restarts"
+      "Lock icon on the first step of the «🎯 Dial-in» guide"
     ],
-    "label": "1"
+    "label": "1.1"
   },
   "apk": {
     "version": 3
