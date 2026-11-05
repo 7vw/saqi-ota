@@ -1,12 +1,12 @@
 {
   "web": {
-    "version": 2,
+    "version": 3,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "6c8ea20f654db9f8bc91b43bfdcf43e61ebb0b5d436bb8c93107c116dd54d2de",
-    "title": "إضافة اللغة الإنجليزية · English added",
+    "sha256": "38eb691328fcf2ada33a4bccac580fea65e95f4e229c36d58b4427efccafe75f",
+    "title": "إصلاح التحديثات · Update fix",
     "notes": [
-      "الشاشة صارت تدعم الإنجليزي — من الإعدادات ← اللغة",
-      "The screen now supports English — Settings → Language"
+      "إصلاح الاتصال بسيرفر التحديثات على الأجهزة القديمة، ورسائل خطأ أوضح",
+      "Fixed connecting to the update server on older devices, with clearer error messages"
     ]
   },
   "apk": {
