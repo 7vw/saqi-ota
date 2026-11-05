@@ -1,14 +1,12 @@
 {
   "web": {
-    "version": 6,
+    "version": 7,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "caf25ca5c59a156481f2609f023c9d23aad2f63a5faffb9127145ca54d65ff00",
-    "title": "التحديثات تبان على طول · Updates apply instantly",
+    "sha256": "1345693938501f1c3345c1cf080e393cedc282de572f679825ecf2a8a077802a",
+    "title": "أضف وصفة من جوالك · Add recipes from your phone",
     "notes": [
-      "⚠️ بعد هالتحديث طفّ البرواز وشغّله مرة أخيرة — بعدها كل تحديث يبان على طول بدون إطفاء",
-      "⚠️ After this update, switch the screen off and on one last time — from then on updates show instantly",
-      "الإعدادات تنقفل من جديد أول ما تطلع منها",
-      "Settings lock again as soon as you leave them"
+      "زر «من جوالك»: صوّر الباركود والصق رابط وصفة من تطبيق xBloom — يشتغل بعد تثبيت نسخة التطبيق الجديدة بالكيبل",
+      "«From your phone»: scan the barcode and paste an xBloom recipe link — works after installing the new app version by cable"
     ]
   },
   "apk": {
