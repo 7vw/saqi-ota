@@ -1,19 +1,17 @@
 {
   "web": {
-    "version": 13,
+    "version": 14,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "803217f9f180bce7caaaed79f857427329036b31c21623d12cec2510a4fab85f",
-    "title": "ماء بالمليلتر الواحد",
+    "sha256": "49a7c1c4f887e8a1272dc0c5f0d5abe849f402aed75d99768ebe019a14f06614",
+    "title": "رجوع تلقائي بعد الكوب",
     "notes": [
-      "زر + و − للماء يزيد ويقلل مل واحد، واضغط مطوّل عشان يمشي بسرعة",
-      "إصلاح رقم الماء أثناء التحضير"
+      "إذا خلص الكوب ومحد لمس الشاشة دقيقة، ترجع لصفحة البداية لحالها"
     ],
-    "title_en": "Water in 1 ml steps",
+    "title_en": "Auto return after a cup",
     "notes_en": [
-      "Water + and − now move 1 ml; hold the button to go fast",
-      "Fixed the water number while brewing"
+      "If nobody touches the screen for a minute after a cup, it goes back to the start screen"
     ],
-    "label": "1.2"
+    "label": "1.3"
   },
   "apk": {
     "version": 4
