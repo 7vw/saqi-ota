@@ -1,17 +1,19 @@
 {
   "web": {
-    "version": 12,
+    "version": 13,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "197220d4d0193fa4e8b7f960e2e4b6468b8dde388146eae1732278517ff09996",
-    "title": "تحسين بسيط في الشرح",
+    "sha256": "803217f9f180bce7caaaed79f857427329036b31c21623d12cec2510a4fab85f",
+    "title": "ماء بالمليلتر الواحد",
     "notes": [
-      "أيقونة القفل في أول خطوة من شرح «🎯 الضبط»"
+      "زر + و − للماء يزيد ويقلل مل واحد، واضغط مطوّل عشان يمشي بسرعة",
+      "إصلاح رقم الماء أثناء التحضير"
     ],
-    "title_en": "Small guide polish",
+    "title_en": "Water in 1 ml steps",
     "notes_en": [
-      "Lock icon on the first step of the «🎯 Dial-in» guide"
+      "Water + and − now move 1 ml; hold the button to go fast",
+      "Fixed the water number while brewing"
     ],
-    "label": "1.1"
+    "label": "1.2"
   },
   "apk": {
     "version": 4
