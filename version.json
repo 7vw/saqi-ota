@@ -1,17 +1,23 @@
 {
   "web": {
-    "version": 14,
+    "version": 15,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "49a7c1c4f887e8a1272dc0c5f0d5abe849f402aed75d99768ebe019a14f06614",
-    "title": "رجوع تلقائي بعد الكوب",
+    "sha256": "abc5ef26c16fd01027262a7ba9f40889b3e3a97e6a7aff3a08a52c6f6d4cbb1b",
+    "title": "شكل جديد بحركات",
     "notes": [
-      "إذا خلص الكوب ومحد لمس الشاشة دقيقة، ترجع لصفحة البداية لحالها"
+      "الكوب يتعبّى قدامك وأنت تحضّر",
+      "احتفال صغير لمن يجهز الكوب",
+      "شاشة ترحيب حيّة وأزرار تتجاوب",
+      "شرح أقصر: ٤ خطوات بس"
     ],
-    "title_en": "Auto return after a cup",
+    "title_en": "A livelier look",
     "notes_en": [
-      "If nobody touches the screen for a minute after a cup, it goes back to the start screen"
+      "Watch the cup fill up while it brews",
+      "A little celebration when the cup is ready",
+      "A living welcome screen and buttons that respond",
+      "A shorter guide: just 4 steps"
     ],
-    "label": "1.3"
+    "label": "1.4"
   },
   "apk": {
     "version": 4
