@@ -1,23 +1,23 @@
 {
   "web": {
-    "version": 15,
+    "version": 16,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "abc5ef26c16fd01027262a7ba9f40889b3e3a97e6a7aff3a08a52c6f6d4cbb1b",
-    "title": "شكل جديد بحركات",
+    "sha256": "332d909c618ab03ae71ec7604ebba4cc14c36339d7ea26e2120de4b2c707165e",
+    "title": "حركات أقوى",
     "notes": [
-      "الكوب يتعبّى قدامك وأنت تحضّر",
-      "احتفال صغير لمن يجهز الكوب",
-      "شاشة ترحيب حيّة وأزرار تتجاوب",
-      "شرح أقصر: ٤ خطوات بس"
+      "موجة تحت إصبعك مع كل لمسة",
+      "الشاشات تدخل والبطاقات تنقلب وحدة ورا الثانية",
+      "قطرات تنزل وفقاعات داخل الكوب وهو يتحضّر",
+      "بخار وقصاصات ملونة لمن يجهز الكوب"
     ],
-    "title_en": "A livelier look",
+    "title_en": "Bolder animations",
     "notes_en": [
-      "Watch the cup fill up while it brews",
-      "A little celebration when the cup is ready",
-      "A living welcome screen and buttons that respond",
-      "A shorter guide: just 4 steps"
+      "A ripple under your finger on every touch",
+      "Screens sweep in and cards flip up one by one",
+      "Drops fall and bubbles rise in the cup while it brews",
+      "Steam and confetti when the cup is ready"
     ],
-    "label": "1.4"
+    "label": "1.5"
   },
   "apk": {
     "version": 4
