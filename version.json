@@ -1,19 +1,17 @@
 {
   "web": {
-    "version": 19,
+    "version": 21,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "8e13ae19853381abfe2fcd3d98a1984bf736017018727e3d27da93a89ede579f",
-    "title": "سيرفر قهوة وترطيب أخف",
+    "sha256": "29806b54b83b892b93e190399e26ce4496fc18149f81075aed455ddf2126c87c",
+    "title": "سيرفر جديد",
     "notes": [
-      "الكاسة صارت سيرفر قهوة يتعبّى قدامك",
-      "ترطيب الفلتر: ٢٠ مل بصبّة دائرية وبدون هز"
+      "السيرفر صار زجاج مدخّن مضلّع مثل سيرفر الكافيه، بغطا وبوز ويد"
     ],
-    "title_en": "A coffee server and a lighter rinse",
+    "title_en": "A new server",
     "notes_en": [
-      "The glass is now a coffee server that fills as it brews",
-      "Filter rinse: 20 ml, circular pour, no shaking"
+      "The server is now faceted smoky glass like the café's, with a lid, spout and handle"
     ],
-    "label": "1.8"
+    "label": "1.9"
   },
   "apk": {
     "version": 4
