@@ -1,17 +1,21 @@
 {
   "web": {
-    "version": 21,
+    "version": 22,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "29806b54b83b892b93e190399e26ce4496fc18149f81075aed455ddf2126c87c",
-    "title": "سيرفر جديد",
+    "sha256": "0f89138938398c33dc88899da3ebe5540e198c947fb41688b6d002a6f21b6109",
+    "title": "تحديث التحديثات والترطيب",
     "notes": [
-      "السيرفر صار زجاج مدخّن مضلّع مثل سيرفر الكافيه، بغطا وبوز ويد"
+      "التحديثات الجاية تطلع لك لحالها على الشاشة بدون ما تدخل الإعدادات",
+      "ترطيب الفلتر صار ٣٠ مل بصبّة دائرية",
+      "رقم وزن البن يثبت وقت الترطيب"
     ],
-    "title_en": "A new server",
+    "title_en": "Updates and rinse",
     "notes_en": [
-      "The server is now faceted smoky glass like the café's, with a lid, spout and handle"
+      "New updates now pop up on their own, no need to open Settings",
+      "The filter rinse is now 30 ml, circular pour",
+      "The bean weight stays put during the rinse"
     ],
-    "label": "1.9"
+    "label": "1.10"
   },
   "apk": {
     "version": 4
