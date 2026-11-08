@@ -1,21 +1,17 @@
 {
   "web": {
-    "version": 22,
+    "version": 23,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "0f89138938398c33dc88899da3ebe5540e198c947fb41688b6d002a6f21b6109",
-    "title": "تحديث التحديثات والترطيب",
+    "sha256": "8c467008dff63d2da6a086f91f26f440796df650f56214cd8461dc0b5a451e0c",
+    "title": "أيقونة الميزان",
     "notes": [
-      "التحديثات الجاية تطلع لك لحالها على الشاشة بدون ما تدخل الإعدادات",
-      "ترطيب الفلتر صار ٣٠ مل بصبّة دائرية",
-      "رقم وزن البن يثبت وقت الترطيب"
+      "أيقونة الميزان صارت ميزان مطبخ بدل الشكل اللي يشبه القفل"
     ],
-    "title_en": "Updates and rinse",
+    "title_en": "Scale icon",
     "notes_en": [
-      "New updates now pop up on their own, no need to open Settings",
-      "The filter rinse is now 30 ml, circular pour",
-      "The bean weight stays put during the rinse"
+      "The scale icon now looks like a kitchen scale, not a padlock"
     ],
-    "label": "1.10"
+    "label": "1.11"
   },
   "apk": {
     "version": 4
