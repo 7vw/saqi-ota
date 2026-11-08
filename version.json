@@ -1,17 +1,17 @@
 {
   "web": {
-    "version": 25,
+    "version": 26,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "506d50f8e4d3970d4daa5e827f16e84599274493bce4c0de58dc4ea4229e98a1",
-    "title": "إصلاح الربط",
+    "sha256": "d1a418ded421a73223a0744ba7a1fff6d8a553ae6379c3da13739826072acfbe",
+    "title": "ألوان الشاي",
     "notes": [
-      "إذا الجسر متصل بالمكينة، الشاشة تشتغل على طول بدون ما تطلب الربط من جديد"
+      "ورق الشاي صار أسود، والشاي في السيرفر أحمر غامق"
     ],
-    "title_en": "Pairing fix",
+    "title_en": "Tea colours",
     "notes_en": [
-      "If the bridge is already connected to the machine, the screen works straight away without asking to pair again"
+      "Black tea leaves on top, a deep red tea in the server"
     ],
-    "label": "1.13"
+    "label": "1.14"
   },
   "apk": {
     "version": 4
