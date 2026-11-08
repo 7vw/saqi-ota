@@ -1,23 +1,19 @@
 {
   "web": {
-    "version": 18,
+    "version": 19,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "2140227306c854c95db0ddaef0b421db2486c11ab48e2667dd5292bd9f49b15c",
-    "title": "وزن البن وترطيب الفلتر",
+    "sha256": "8e13ae19853381abfe2fcd3d98a1984bf736017018727e3d27da93a89ede579f",
+    "title": "سيرفر قهوة وترطيب أخف",
     "notes": [
-      "قبل الكوب: وزّن البن على ميزان المكينة، ورطّب الفلتر بزر",
-      "التحضير صار كوب وفوقه فلتر xBloom يتعبّى قدامك",
-      "حبوب تلف وقت الطحن، والبطاقة تكبر وتصير شاشة",
-      "أيقونات مرسومة بدل الإيموجي"
+      "الكاسة صارت سيرفر قهوة يتعبّى قدامك",
+      "ترطيب الفلتر: ٢٠ مل بصبّة دائرية وبدون هز"
     ],
-    "title_en": "Weigh the beans, rinse the filter",
+    "title_en": "A coffee server and a lighter rinse",
     "notes_en": [
-      "Before the cup: weigh the beans on the machine's scale and rinse the filter with one tap",
-      "The brew screen is now a glass under an xBloom dripper that fills as it pours",
-      "Beans tumble while grinding, and the card grows into the next screen",
-      "Drawn icons instead of emoji"
+      "The glass is now a coffee server that fills as it brews",
+      "Filter rinse: 20 ml, circular pour, no shaking"
     ],
-    "label": "1.7"
+    "label": "1.8"
   },
   "apk": {
     "version": 4
