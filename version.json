@@ -1,17 +1,17 @@
 {
   "web": {
-    "version": 23,
+    "version": 24,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "8c467008dff63d2da6a086f91f26f440796df650f56214cd8461dc0b5a451e0c",
-    "title": "أيقونة الميزان",
+    "sha256": "d29fea0584dc37c73613ba45f422e97eb4b787558dbbb5e99e99adf22fa8f78d",
+    "title": "التحديثات أسرع",
     "notes": [
-      "أيقونة الميزان صارت ميزان مطبخ بدل الشكل اللي يشبه القفل"
+      "الشاشة تشوف التحديثات كل ٥ دقايق، ولمن ترجع لشاشة البداية، ولمن تصحى"
     ],
-    "title_en": "Scale icon",
+    "title_en": "Faster updates",
     "notes_en": [
-      "The scale icon now looks like a kitchen scale, not a padlock"
+      "The screen looks for updates every 5 minutes, back on the start screen, and when it wakes"
     ],
-    "label": "1.11"
+    "label": "1.12"
   },
   "apk": {
     "version": 4
