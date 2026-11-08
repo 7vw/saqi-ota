@@ -1,23 +1,17 @@
 {
   "web": {
-    "version": 16,
+    "version": 17,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "332d909c618ab03ae71ec7604ebba4cc14c36339d7ea26e2120de4b2c707165e",
-    "title": "حركات أقوى",
+    "sha256": "18c8a336c7caea42c5e1cf18cfa763f7c2675de50c181dc241dc6fc67dcb349f",
+    "title": "تعديل بسيط",
     "notes": [
-      "موجة تحت إصبعك مع كل لمسة",
-      "الشاشات تدخل والبطاقات تنقلب وحدة ورا الثانية",
-      "قطرات تنزل وفقاعات داخل الكوب وهو يتحضّر",
-      "بخار وقصاصات ملونة لمن يجهز الكوب"
+      "شلنا القصاصات الملونة لمن يجهز الكوب"
     ],
-    "title_en": "Bolder animations",
+    "title_en": "A small tweak",
     "notes_en": [
-      "A ripple under your finger on every touch",
-      "Screens sweep in and cards flip up one by one",
-      "Drops fall and bubbles rise in the cup while it brews",
-      "Steam and confetti when the cup is ready"
+      "Removed the confetti when the cup is ready"
     ],
-    "label": "1.5"
+    "label": "1.6"
   },
   "apk": {
     "version": 4
