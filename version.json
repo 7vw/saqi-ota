@@ -1,17 +1,17 @@
 {
   "web": {
-    "version": 24,
+    "version": 25,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "d29fea0584dc37c73613ba45f422e97eb4b787558dbbb5e99e99adf22fa8f78d",
-    "title": "التحديثات أسرع",
+    "sha256": "506d50f8e4d3970d4daa5e827f16e84599274493bce4c0de58dc4ea4229e98a1",
+    "title": "إصلاح الربط",
     "notes": [
-      "الشاشة تشوف التحديثات كل ٥ دقايق، ولمن ترجع لشاشة البداية، ولمن تصحى"
+      "إذا الجسر متصل بالمكينة، الشاشة تشتغل على طول بدون ما تطلب الربط من جديد"
     ],
-    "title_en": "Faster updates",
+    "title_en": "Pairing fix",
     "notes_en": [
-      "The screen looks for updates every 5 minutes, back on the start screen, and when it wakes"
+      "If the bridge is already connected to the machine, the screen works straight away without asking to pair again"
     ],
-    "label": "1.12"
+    "label": "1.13"
   },
   "apk": {
     "version": 4
