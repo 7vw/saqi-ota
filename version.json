@@ -1,17 +1,21 @@
 {
   "web": {
-    "version": 26,
+    "version": 27,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "d1a418ded421a73223a0744ba7a1fff6d8a553ae6379c3da13739826072acfbe",
-    "title": "ألوان الشاي",
+    "sha256": "10fdc52ef254fc8f9cc67107877f5507c85904e95099d2d9f73e973b6d97e567",
+    "title": "قفل الوصفات وعدّاد الدفعات",
     "notes": [
-      "ورق الشاي صار أسود، والشاي في السيرفر أحمر غامق"
+      "السيرفر يتعبّى مع كل دفعة، وفوقه رقم الدفعة",
+      "تقدر تقفل أي وصفة بالرقم السري، وترجع تنقفل بعد التعديل",
+      "الحرارة تنكتب صح تحت الدفعات"
     ],
-    "title_en": "Tea colours",
+    "title_en": "Recipe lock and pour count",
     "notes_en": [
-      "Black tea leaves on top, a deep red tea in the server"
+      "The server fills with each pour, with the pour number above it",
+      "Lock any recipe with the PIN; it locks again after editing",
+      "Temperatures under the pours read correctly"
     ],
-    "label": "1.14"
+    "label": "1.15"
   },
   "apk": {
     "version": 4
