@@ -1,21 +1,17 @@
 {
   "web": {
-    "version": 28,
+    "version": 29,
     "url": "https://7vw.github.io/saqi-ota/assets.zip",
-    "sha256": "09d64151a62bae2c7f1883c91c87832be378c3ab529f3880b042c8ef2b6b3e5d",
-    "title": "اتصال أثبت بالجسر",
+    "sha256": "7b30d0f35e649b7a540877fccd2e42f50765c8df1b28689e303b757bf729b1fc",
+    "title": "تصليح رسالة البلوتوث",
     "notes": [
-      "الشاشة ترجع تتصل بالجسر لحالها لو فصل",
-      "تدوّر على الجسر أكثر من مرة قبل ما تقول ما لقيته",
-      "الإعدادات تبيّن قوة إشارة الواي فاي والمكينة عند الجسر"
+      "رسالة «البلوتوث مقفل» تختفي لحالها أول ما ينفتح البلوتوث"
     ],
-    "title_en": "Steadier bridge link",
+    "title_en": "Bluetooth message fix",
     "notes_en": [
-      "The screen reconnects to the bridge by itself if it drops",
-      "It searches for the bridge several times before giving up",
-      "Settings show the Wi-Fi and machine signal at the bridge"
+      "The «Bluetooth is off» message clears by itself once Bluetooth is on"
     ],
-    "label": "1.16"
+    "label": "1.17"
   },
   "apk": {
     "version": 4
